@@ -6,7 +6,26 @@ Internship Project 1 - Syntecxhub
 
 📌 Project Overview
 
-This project focuses on predicting house prices using Machine Learning techniques. A Linear Regression model is built to estimate housing prices based on selected housing features.
+This project focuses on predicting house prices using Machine Learning techniques. 
+A Linear Regression model is built to estimate housing prices based on selected housing features.
+
+📂 Dataset Features
+The dataset contains the following columns:
+country – Country where the property is located
+city – City of the property
+property_type – Type of property (Apartment, Villa, etc.)
+furnishing_status – Furnished / Semi-Furnished / Unfurnished
+property_size_sqft – Size of property in square feet
+price – Target variable (House price)
+constructed_year – Year when property was built
+previous_owners – Number of previous owners
+rooms – Number of rooms
+bathrooms – Number of bathrooms
+garage – Garage availability (Yes/No or 0/1)
+garden – Garden availability (Yes/No or 0/1)
+crime_cases_reported – Number of crime cases reported in the area
+legal_cases_on_property – Legal cases associated with the property
+
 
 
 🎯 Objective
