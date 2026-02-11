@@ -18,3 +18,13 @@ This project focuses on predicting house prices using Machine Learning technique
 - Interpret model coefficients
 - Save trained model
 - Make example predicti
+
+
+🛠️ Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib / Seaborn
+- Scikit-learn
+- Pickle
