@@ -10,11 +10,11 @@ This project focuses on predicting house prices using Machine Learning technique
 A Linear Regression model is built to estimate housing prices based on selected housing features.
 
 📂 Dataset Features
-> The dataset contains the following columns:
-> country – Country where the property is located
-> city – City of the property
-> property_type – Type of property (Apartment, Villa, etc.)
-> furnishing_status – Furnished / Semi-Furnished / Unfurnished
+- The dataset contains the following columns:
+- country – Country where the property is located
+- city – City of the property
+- property_type – Type of property (Apartment, Villa, etc.)
+- furnishing_status – Furnished / Semi-Furnished / Unfurnished
 > property_size_sqft – Size of property in square feet
 price – Target variable (House price)
 constructed_year – Year when property was built
